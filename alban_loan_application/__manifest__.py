@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "BankPro",
+    'name': "BankPro-Ent",
 
     'summary': """
         Fully Integrated Microbanking/Banking/Factoring/Leasing/MFI/Non-Bank Solution based on oDoo technology""",
