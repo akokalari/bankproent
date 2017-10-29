@@ -7,7 +7,7 @@
 
     'description': """
         App: http://34.230.88.63:8069  U:admin P:admin
-        BI: http://34.201.136.139:8088 U:admin P:admin
+        BI: http://54.146.239.175:8088 U:admin P:admin
 
         This is a fully intergrated GUI-based Software Solution on oDoo from iCom, that caters to a wide spectrum of banking/micro-banking operations, including diverse lending methodologies & institutional models, interest calculation & repayment schedules amongst others.
         Integrating Loans, Savings, and Financial Accounting and MIS applications. The BankPro today, caters to the micro-banking activities of various types / sizes of MFIs, rural banks and Non-bank financial companies. It blends financial accounting with member accounting, loan
@@ -27,7 +27,7 @@
     """,
 
     'author': "ICOM Shpk, Tirane, Albania +355692087330, info@icom-al.com",
-    'website': "http://www.icom-al.com ; App: http://34.230.88.63:8069  U:admin P:admin ; BI: http://34.201.136.139:8088 U:admin P:admin",
+    'website': "http://www.icom-al.com ; App: http://34.224.67.91:8069  U:admin P:admin ; BI: http://54.146.239.175:8088 U:admin P:admin",
 
     'category': 'Microbanking/Banking/Factoring/Leasing/MFI/Non-Bank',
     'version': '0.1',
